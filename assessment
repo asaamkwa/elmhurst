@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+     <head>
+         <!-- required tags -->
+        <meta charset="utf-8">
+        <meta lang="en">
+        <meta http-equiv="X-UA-Compatible" 
+              content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+       <!............................title....................................>
+        <title>About the Founder</title>
+        <link rel="stylesheet" href="css/Index.css">
+        <link rel="stylesheet" href="css/animate/animate.css">
+        <! -- owl-carousel -->
+        <link rel="stylesheet" href="css/owl-carousel/owl.carousel.min.css">
+        <link rel="stylesheet" href="css/owl-carousel/owl.theme.default.min.css">
+       <link rel="stylesheet" href="css/all.css">
+         <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+          <link rel="stylesheet" href="nav%202.css"/>
+         <link rel="stylesheet" href="css/aos.css">
+         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+         
+         
+         
+         
+         
+    </head>
+    <body>
+       <!---------------------------- navbar-------------------------------->
+        <div class="menu-bar">
+            <ul>
+                <li class="active"><a href="Index.html">home</a></li>
+                <li><a href="#">about us</a>
+                    <div class="sub-menu-1">
+                       <ul>
+                         <li><a href="founder.html">founder</a></li>
+                        <li><a href="vision.html">vision and mission</a></li>
+                        <li><a href="accreditation.html">accreditation</a></li>
+                        <li><a href="#">campuses</a></li>
+                            <li class="hover-me"><a href="#">faculty</a>
+                              <div class="sub-menu-2">
+                                 <ul>
+                                 <li><a href="academic%20coordinator.html">academic coordinators</a></li>
+                                <li><a href="educators.html">our education</a></li>
+                            </ul>
+                             </div>  
+                           </li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href="#">programs</a>
+                     <div class="sub-menu-1">
+                       <ul>
+                           <li><a href="pre-kindergarten.html">pre-kindergarten</a></li>
+                           <li><a href="kindergarten.html">kindergarten</a></li>
+                           <li><a href="primary.html">primary school</a></li>
+                           <li><a href="middle%20school.html">middle school</a></li>
+                           <li><a href="extra%20school.html">extral curriculars</a></li>
+                           <li><a href="after%20school.html">after-school program</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href="Admission.html">admission</a></li>
+                <li><a href="#">IB </a>
+                   <div class="sub-menu-1">
+                       <ul>
+                           <li><a href="#">about IB</a></li>
+                           <li><a href="#">our USPs</a></li>
+                           <li class="hover-me"><a href="#">PYP</a>
+                               <div class="sub-menu-2">
+                                   <ul>
+                                       <li><a href="#">curriculum</a></li>
+                                       <li><a href="#">approachs to teaching</a></li>
+                                       <li><a href="#">language development</a></li>
+                                       <li><a href="#">assessment</a></li>
+                                   </ul>
+                               </div>
+                           </li>
+                    </ul>
+                    </div>
+                </li>
+                <li><a href="#">gallery</a>
+                    <div class="sub-menu-1">
+                        <ul>
+                           <li><a href="#">learning at elmhurst</a></li>
+                            <li><a href="#">Achievement</a></li>
+                            <li><a href="#">humour</a></li>
+                            <li><a href="#">annual day</a></li>
+                            <li><a href="#">field trips</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href="contact.html">contact us</a></li>
+            </ul>
+        </div>
+        <!----------------------------------xxxx----------------------------->
+        <!------------------- main containe---------------------------------->
+       <section style="padding-top: 190px; margin-left: 50px;">
+           <div class="contact">
+               <h2>About the Founder</h2>
+           </div>
+           <div class="founder">
+               <div class="sub-founder-1">
+                   <p>aLphabet international is the brainchild of <b>Akaabadek Louis</b>, an educator whose heart and inspired mind is at the crux of the institution. Her vision to create life-long learners is evident in the carefully and intrinsically designed curriculum and teaching methods rolled out by her remarkable team of teachers. Her innate enthusiasm, commitment and passion is also driven by the aLphabet learners who she lovingly calls her babies. She believes that each child teaches her something new every day and her ability to unleash their potential is nothing short of extraordinary. By spending a considerable amount of time in the classrooms as one among the children, Kavita dives straight into the powerful minds surrounding her and their learning abilities.</p>
+                   <br>
+                   <p>After pursuing a Major in Education and her Montessori Diploma from Kolkata, Kavita moved to Chennai to pursue her dream of providing a personalized learning environment by creating an international educational experience. She worked as an elementary school teacher in a prime school in Chennai and has experience of over 28 years.</p>
+                   <br>
+                   <p>Kavita has received<b><i><u> “The Lifetime Education Achievement Award for Outstanding Individual Achievement and Distinguished Services to the Nation”</u></i></b> by the Health and Education Development Association, New Delhi.</p>
+               </div>
+               <div class="sub-founder-2">
+                   <img src="images/e9%20(1).jpg" alt="founder picture" width="350" height="525">
+               </div>
+           </div>
+        </section>
+        <!-----------------------end of main containe--------------------->
+        <!---------------------------beginning of footer------------------->
+         <!-------------------------------- flex-box 2 -------------------------------->
+        <div class="flex-box-pp3-pp4-pp5" data-aos="zoom-in" data-aos-duration="1000">
+            <div class="column-a-b-c-d">
+                <h3>OUR LINKS</h3><br>
+              <a href="Admission.html">Admission</a><br>
+                <a href="#">FAQs</a><br>
+               <a href="contact.html">Contacts Us</a> <br>
+                <a href="#">Credits</a><br>
+            </div>
+            <div class="column-a-b-c-d" data-aos="fade-up" data-aos-duration="3000">
+                <h3>OUR SCHOOL</h3><br>
+                <a href="pre-kindergarten.html"> Pre-Kindergerten</a><br>
+                <a href="kindergarten.html">Kindergarten</a><br>
+                <a href="primary.html">Primary School</a><br>
+                <a href="middle%20school.html">Middle School</a>
+            </div>
+            <div class="column-a-b-c-d-90" data-aos="zoom-in" data-aos-duration="900">
+                <h3>GET IN TOUCH</h3>
+                 <a href="http://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a>
+            <a href="http://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="http://www.twitter.com" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="http://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a>
+                    <a href="#"><i class="fab fa-amazon"></i></a>
+               <div class="move-up">
+                <span><i class="fas fa-arrow-circle-up fa-2x"></i></span>
+            </div>
+            </div>
+        </div>
+        <!----------------------------------xxxx----------------------------->
+         <! -- jquery library -->
+            <script src="js/jquery.js"></script>
+            <! -- owl-carousel js -->
+            <script src="js/owl-carousel/owl.carousel.min.js"></script>
+        
+            
+    
+          <script src="js/aos.js"></script>  
+        <script src="js/Index.js"></script>
+        <!---------------------------end of footer------------------------->
+    </body>
+</html>
